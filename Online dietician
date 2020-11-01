@@ -1,7 +1,7 @@
 
 Code:
 from tkinter import *
-from random import randint
+from random import radient
 a = Tk()
 a.title('The dietician')
 
